@@ -1,4 +1,4 @@
-# Password Security Tool — Project Statement
+# Password Security Tool 
 
 ## 1. Problem Statement
 
