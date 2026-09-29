@@ -33,10 +33,6 @@ The project follows a modular design in which password analysis,
 generation, recommendations, validation, reporting, and user interaction
 are separated into different modules.
 
-> **Academic note:** This tool evaluates basic password characteristics
-> only. A password marked "VERY STRONG" by this program is not
-> guaranteed to be resistant to every real-world attack.
-
 ------------------------------------------------------------------------
 
 ## 3. Problem Statement
@@ -148,7 +144,8 @@ modules required for the project.
 
   FR6            Menu-based        User choice    Route choice   Selected
                  interaction                      to appropriate operation
-                                                  function       
+                                                  function    
+                                                  
   --------------------------------------------------------------------------------
 
 ### Password Analysis Rules
