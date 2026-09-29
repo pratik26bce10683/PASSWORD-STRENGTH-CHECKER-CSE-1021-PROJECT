@@ -1,10 +1,10 @@
-###Password Security Tool - Design
+# Password Security Tool - Design
 
-##System Design
+## System Design
 
 The Password Security Tool is divided into separate Python modules. Each module performs a specific task and works together through the main program.
 
-##Modules
+## Modules
 
 main.py
 
