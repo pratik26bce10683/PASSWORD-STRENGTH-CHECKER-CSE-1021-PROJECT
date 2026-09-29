@@ -220,7 +220,7 @@ The project addresses the following non-functional requirements.
 
 ## 9. Technologies and Tools Used
 
--   **Programming Language:** Python 3
+-   **Programming Language:** Python 3.14.6
 -   **Standard Libraries:** `random`, `string`
 -   **Programming Concepts:** Functions, modules, conditionals, loops,
     lists, dictionaries, string methods, Boolean expressions, exception
@@ -546,8 +546,8 @@ Responsibilities:
 
 Install:
 
--   Python 3.x
--   Git (optional, for version control and GitHub)
+-   Python 3.14.6
+-   Git 
 
 Check Python installation:
 
@@ -558,7 +558,7 @@ python --version
 or:
 
 ``` bash
-python3 --version
+python3.14.6 --version
 ```
 
 ### Clone the Repository
