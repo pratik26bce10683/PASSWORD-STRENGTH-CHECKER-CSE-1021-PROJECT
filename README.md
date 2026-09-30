@@ -567,16 +567,3 @@ Additional project documentation is available in:
 -   `docs/` -- supporting project documentation
 
 ------------------------------------------------------------------------
-
-## Author
-
-**Pratik Yadav**
-
-CSE-1021 Project
-
-------------------------------------------------------------------------
-
-## Repository
-
-**GitHub Repository:**\
-https://github.com/pratik26bce10683/PASSWORD_SECURITY_TOOL-CSE-1021-PROJECT
