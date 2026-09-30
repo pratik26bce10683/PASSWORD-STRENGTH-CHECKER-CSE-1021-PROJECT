@@ -431,14 +431,3 @@ This project demonstrates practical use of:
 
 ------------------------------------------------------------------------
 
-## Author
-
-**Pratik Yadav**
-
-Python / CSE Project
-
-------------------------------------------------------------------------
-
-## License
-
-This project is created for educational and academic purposes.
